@@ -22,4 +22,5 @@ function multiplyElements(array) {
     return array;
 }
 
+// Probando la solución del ejercicio
 console.log(multiplyElements([2,3,6,4,-2]));

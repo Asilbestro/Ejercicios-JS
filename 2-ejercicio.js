@@ -41,6 +41,7 @@ function getNames(array) {
     return namesPerson;
 }
 
+// Probando la solución del ejercicio
 console.log(getNames([
     {
         name: 'Nicolas',

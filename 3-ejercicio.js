@@ -43,3 +43,26 @@
 //         taxes: 380
 //     }
 // ]
+
+
+function addNewAttr(array) {
+    for (let i = 0; i < array.length; i++) {
+        // Se le agrega una propiedad al objeto, y se le asigna el valor del impusto
+        array[i].taxes = Math.floor(array[i].price * 0.19);
+    }
+    return array;
+}
+
+// Probando la solución del ejercicio
+console.log(addNewAttr([
+    {
+        name: "Product 1",
+        price: 1000,
+        stock: 10
+    },
+    {
+        name: "Product 2",
+        price: 656,
+        stock: 20
+    }
+]));
