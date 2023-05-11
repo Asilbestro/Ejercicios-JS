@@ -3,9 +3,11 @@
 // name
 // price
 // stock
-// Tu reto es agregar y calcular una nueva propiedad llamada "taxes", los impuestos deben ser del 19 % con base al precio base y debes tener en cuenta que como resultado se debe dejar un valor entero, sin decimales.
+// Tu reto es agregar y calcular una nueva propiedad llamada "taxes", los impuestos deben ser del 19 % con base 
+// al precio base y debes tener en cuenta que como resultado se debe dejar un valor entero, sin decimales.
 
-// Por ejemplo si aplicamos el 19 % de impuestos para un producto con precio de $1000 el resultado de los "taxes" será $190, o para un producto con precio de $656 el resultado de los "taxes" será $124.
+// Por ejemplo si aplicamos el 19 % de impuestos para un producto con precio de $1000 el 
+ // resultado de los "taxes" será $190, o para un producto con precio de $656 el resultado de los "taxes" será $124.
 
 // Para solucionarlo vas a encontrar una función llamada addNewAttr que recibe un parámetro de entrada:
 

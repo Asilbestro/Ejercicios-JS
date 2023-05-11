@@ -3,7 +3,8 @@
 // customerName: string
 // total: number
 // delivered: boolean
-// Tu reto es filtrar todas las órdenes de compra que cumplan con la condición de tener un total mayor o igual a 100 y además que el estado delivered sea "true".
+// Tu reto es filtrar todas las órdenes de compra que cumplan con la condición de tener un total mayor o 
+// igual a 100 y además que el estado delivered sea "true".
 
 // Para solucionarlo vas a encontrar una función llamada filterOrders que recibe un parámetro de entrada:
 

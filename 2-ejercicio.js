@@ -3,7 +3,8 @@
 // name: string
 // lastName: string
 // age: number
-// Tu reto es retornar un array de strings con solo los nombres, para solucionarlo vas a encontrar una función llamada llamada getNames que recibe un parámetro de entrada:
+// Tu reto es retornar un array de strings con solo los nombres, para solucionarlo vas a encontrar 
+// una función llamada llamada getNames que recibe un parámetro de entrada:
 
 // array: Un array de objetos.
 // Dentro del cuerpo de la función getNames debes escribir tu solución.
