@@ -35,7 +35,7 @@ function checkArray(array) {
             isPar++;
         }
     }
-    if (isPar == array.length) {
+    if (isPar === array.length && isPar !== 0) {
         return true;
     } else {
         return false;
@@ -43,4 +43,4 @@ function checkArray(array) {
 }
 
 // Probando la solución del ejercicio
-console.log(checkArray([2, 4, 6, 8]));
+console.log(checkArray([2,4,8])); // true
