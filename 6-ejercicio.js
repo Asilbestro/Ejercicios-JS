@@ -2,7 +2,7 @@
 // dentro de la frase "Ana lava la tina" está el término "ana" y si lo tiene retornar un true de lo contrario retornar un false, 
 // debes tener en cuenta que debe encontrar coincidencias, así el término de búsqueda sea mayúscula o minúscula.
 
-// Para solucionarlo vas a encontrar una función llamada checkInString que recibe dos parámetros de entrada:
+// Para solucionarlo tenes que hacer una función que recibe dos parámetros de entrada:
 
 // text: Un string
 // term: Un string con el término a buscar

@@ -6,7 +6,7 @@
 // Tu reto es filtrar todas las órdenes de compra que cumplan con la condición de tener un total mayor o 
 // igual a 100 y además que el estado delivered sea "true".
 
-// Para solucionarlo vas a encontrar una función llamada filterOrders que recibe un parámetro de entrada:
+// Para solucionarlo tenes que hacer una función que recibe un parámetro de entrada:
 
 // array: Un array de objetos
 // Dentro del cuerpo de la función filterOrders debes escribir tu solución.

@@ -9,7 +9,7 @@
 // Por ejemplo si aplicamos el 19 % de impuestos para un producto con precio de $1000 el 
  // resultado de los "taxes" será $190, o para un producto con precio de $656 el resultado de los "taxes" será $124.
 
-// Para solucionarlo vas a encontrar una función llamada addNewAttr que recibe un parámetro de entrada:
+// Para solucionarlo tenes que hacer una función que recibe un parámetro de entrada:
 
 // array: Un array de objetos.
 // Dentro del cuerpo de la función addNewAttr debes escribir tu solución.
